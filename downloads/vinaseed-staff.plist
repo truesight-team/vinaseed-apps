@@ -29,7 +29,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>vn.com.fpt.vinaseed-store</string>
+                    <string>vn.com.fpt.vinaseed-staff</string>
                     <key>bundle-version</key>
                     <string>1.0</string>
                     <key>kind</key>
