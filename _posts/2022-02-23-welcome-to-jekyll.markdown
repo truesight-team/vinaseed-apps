@@ -11,7 +11,7 @@ categories: jekyll update
 ## App Đại lý
 
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/truesight-team/vinaseed-apps/releases/download/develop/VinaseedDaiLy.apk">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/truesight-team/vinaseed-apps/releases/download/dev/VinaseedDaiLy.apk">
   Android
 </a>
 
@@ -24,7 +24,7 @@ categories: jekyll update
 
 
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/truesight-team/vinaseed-apps/releases/download/develop/VinaseedNhanVien.apk">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/truesight-team/vinaseed-apps/releases/download/dev/VinaseedNhanVien.apk">
   Android
 </a>
 
